@@ -4,6 +4,6 @@ To mój pierwszy wiekszy skrypt Pythona, napisany na podstawie przykładu użyci
 Całość jest napisana dla zabawy i nauki. Skrypt prawdopodobne zawiera kilka błędów i nieoptymalnych (i nie bezpiecznych) rozwiąń.
 Nazwa gry jest losowym ciągiem. Opisy sa w większości po polsku, ale niektóre komunikaty w logach sa po angielsku.<br>
 Autor: Koliw aka Mikołaj Wojtkiewicz<br>
-Mail: koliw.br@gmail.com                                                          
+Mail: Koliw.br@gmail.com                                                          
  
  
