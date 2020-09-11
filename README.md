@@ -6,7 +6,7 @@ Utochomić init.sh
 
 
 
-# Historja
+# Historia
 To mój pierwszy wiekszy skrypt Pythona, napisany na podstawie przykładu użycia biblioteki ,,socket''
 (niestety niewiem z jakiego dokładnie źródła) i kilku innych przykładów. 
 Całość jest napisana dla zabawy i nauki. Skrypt prawdopodobne zawiera kilka błędów i nieoptymalnych (i nie bezpiecznych) rozwiąń.
