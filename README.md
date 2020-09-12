@@ -1,8 +1,8 @@
 
 # Instalacja 
 Skopjować całe repozytorium<br>
-Utochomić init.sh
-
+Uruchomić code/init.sh<br>
+# Opis Plików
 
 
 
