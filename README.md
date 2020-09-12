@@ -11,7 +11,7 @@ code:         - folder z kodem aplikacji<br>
  * log.txt - plik z logami (usuwany przez clear.sh)
  * db.json* - zawiera listę kont (usuwany przez clear.sh)<br>
  * clear.sh - usuwa pliki (W razie potrzeby można je znalesc w /var/kosz/LosowyNumer/ ) <br>
-<a href="">Pliki oznaczone (*) są tworzone przez skrypty</a>
+![Pliki oznaczone (*) są tworzone przez skrypty](thyspagenotexzyst.dot/image.jpg)
 
 # Historia
 To mój pierwszy wiekszy skrypt Pythona, napisany na podstawie przykładu użycia biblioteki ,,socket''
