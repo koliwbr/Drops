@@ -10,8 +10,8 @@ code:         - folder z kodem aplikacji<br>
  * serwer.sh - główny plik serwera<br>
  * log.txt - plik z logami (usuwany przez clear.sh)
  * db.json* - zawiera listę kont (usuwany przez clear.sh)<br>
- * clear.sh - usuwa pliki (W razie potrzeby można je znalesc w /var/kosz/LosowyNumer/ ) <br>
-Pliki oznaczone (*) są tworzone przez skrypty
+ * clear.sh - usuwa pliki (W razie potrzeby można je znalesc w /var/kosz/LosowyNumer/ ) <br><br>
+<div>Pliki oznaczone (*) są tworzone przez skrypty</div>
 
 # Historia
 To mój pierwszy wiekszy skrypt Pythona, napisany na podstawie przykładu użycia biblioteki ,,socket''
