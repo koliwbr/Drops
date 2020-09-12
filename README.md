@@ -2,7 +2,8 @@
 # Instalacja  
 Skopjować całe repozytorium<br>
 Jeśli nie zainstalowano TinyBD:<br>
-  * pip <br>
+ $ pip install tinydb<br>
+ 
 Uruchomić code/init.sh<br>
 # Opis Plików
 code:         - folder z kodem aplikacji<br>
