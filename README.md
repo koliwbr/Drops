@@ -1,7 +1,7 @@
 # Spis treści
  <a href="README.md#instalacja">Instalacja</a><br>
- <a href="README.md#opis-plików">Instalacja</a><br>
- <a href="README.md#instalacja">Instalacja</a><br>
+ <a href="README.md#opis-plików">Opis Plików</a><br>
+ <a href="README.md#historja">Historia</a><br>
 # Instalacja  
 Skopjować całe repozytorium<br>
 Jeśli nie zainstalowano TinyBD:<br>
