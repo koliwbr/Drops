@@ -1,9 +1,14 @@
 
-# Instalacja 
+# Instalacja  
 Skopjować całe repozytorium<br>
+Jeśli nie zainstalowano TinyBD:<br>
+  * pip <br>
 Uruchomić code/init.sh<br>
 # Opis Plików
-
+code:         - folder z kodem aplikacji<br>
+ * serwer.sh - główny plik serwera
+ * clear.sh - usuwa pliki (W razie potrzeby można je znalesc w /var/kosz/LosowyNumer/ ) <br>
+ users:      - katalo do przechowywania kont użytkowników (zawartość usuwana przez clear.sh)    <br>
 
 
 # Historia
