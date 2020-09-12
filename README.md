@@ -3,13 +3,13 @@
 Skopjować całe repozytorium<br>
 Jeśli nie zainstalowano TinyBD:<br>
  $ pip install tinydb<br>
- 
-Uruchomić code/init.sh<br>
+ Uruchomić code/init.sh<br>
 # Opis Plików
 code:         - folder z kodem aplikacji<br>
  * serwer.sh - główny plik serwera
+ * db.json* - zawiera listę kont (usuwany przez clear.sh)
  * clear.sh - usuwa pliki (W razie potrzeby można je znalesc w /var/kosz/LosowyNumer/ ) <br>
- users:      - katalo do przechowywania kont użytkowników (zawartość usuwana przez clear.sh)    <br>
+ users*:      - katalog do przechowywania kont użytkowników (zawartość usuwana przez clear.sh)    <br>
 
 
 # Historia
