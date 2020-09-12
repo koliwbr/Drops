@@ -5,12 +5,13 @@ Jeśli nie zainstalowano TinyBD:<br>
  $ pip install tinydb<br>
  Uruchomić code/init.sh<br>
 # Opis Plików
-code:         - folder z kodem aplikacji<br>
- * serwer.sh - główny plik serwera
- * db.json* - zawiera listę kont (usuwany przez clear.sh)
- * clear.sh - usuwa pliki (W razie potrzeby można je znalesc w /var/kosz/LosowyNumer/ ) <br>
  users*:      - katalog do przechowywania kont użytkowników (zawartość usuwana przez clear.sh)    <br>
-
+code:         - folder z kodem aplikacji<br>
+ * serwer.sh - główny plik serwera<br>
+ * log.txt - plik z logami (usuwany przez clear.sh)
+ * db.json* - zawiera listę kont (usuwany przez clear.sh)<br>
+ * clear.sh - usuwa pliki (W razie potrzeby można je znalesc w /var/kosz/LosowyNumer/ ) <br>
+Pliki oznaczone (*) są tworzone przez skrypty
 
 # Historia
 To mój pierwszy wiekszy skrypt Pythona, napisany na podstawie przykładu użycia biblioteki ,,socket''
