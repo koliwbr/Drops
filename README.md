@@ -1,5 +1,5 @@
 # Spis treści
- <a href="">Instalacja</a>
+ <a href="README.md#instalacja">Instalacja</a>
 # Instalacja  
 Skopjować całe repozytorium<br>
 Jeśli nie zainstalowano TinyBD:<br>
